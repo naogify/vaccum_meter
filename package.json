@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/naogify/vaccum_meter/issues"
   },
-  "homepage": "https://github.com/naogify/vaccum_meter#readme"
+  "homepage": "https://github.com/naogify/vaccum_meter#readme",
+  "dependencies": {
+    "cordova": "^6.4.0",
+    "ionic": "^2.1.17"
+  }
 }
